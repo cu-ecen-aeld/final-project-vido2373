@@ -5,3 +5,8 @@
 
 ## Schedule Overview
 [Link to schedule](https://github.com/cu-ecen-aeld/final-project-vido2373/wiki/Final-Project-Assignment-Schedule-Page)
+
+## Source Code Organization
+* [Server Repo](https://github.com/cu-ecen-aeld/final-project-MuktaDarekar)
+* [Client Repo](https://github.com/cu-ecen-aeld/final-project-vido2373)
+* [Shared Code](https://github.com/vido2373/aesd-final-project-support)
