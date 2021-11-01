@@ -9,4 +9,4 @@
 ## Source Code Organization
 * [Server Repo](https://github.com/cu-ecen-aeld/final-project-MuktaDarekar)
 * [Client Repo](https://github.com/cu-ecen-aeld/final-project-vido2373)
-* [Shared Code](https://github.com/vido2373/aesd-final-project-support)
+* [Shared Code](https://github.com/cu-ecen-aeld/final-project-support-vishnu-mukta)
