@@ -1,5 +1,9 @@
 # Final Project Repository for Vishnu Dodballapur
 
+## Group Members
+* Mukta Darekar
+* Vishnu Dodballapur
+
 ## Project Overview
 [Link to project overview](https://github.com/cu-ecen-aeld/final-project-vido2373/wiki/Project-Overview)
 
