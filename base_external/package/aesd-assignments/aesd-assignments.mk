@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 7142eecaa3e9099c08d907117b9572b71856c043
+AESD_ASSIGNMENTS_VERSION = 405cfddac9350ef054f7624fb3d93d291d86b3ba
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
@@ -19,6 +19,7 @@ endef
 
 define AESD_ASSIGNMENTS_INSTALL_TARGET_CMDS
 	$(INSTALL) -m 0755 $(@D)/display_image/display_image $(TARGET_DIR)/usr/bin
+	$(INSTALL) -m 0755 $(@D)/display_image/test.pgm $(TARGET_DIR)/root
 endef
 
 $(eval $(generic-package))
